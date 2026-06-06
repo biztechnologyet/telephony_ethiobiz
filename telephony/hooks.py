@@ -1,8 +1,8 @@
 app_name = "telephony"
 app_title = "Telephony"
-app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = "Telephony for Frappe apps"
-app_email = "pratik@frappe.io"
+app_publisher = "Biz Technology Solutions"
+app_description = "Telephony app"
+app_email = "dev@ethiobiz.et"
 app_license = "agpl-3.0"
 
 
